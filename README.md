@@ -4,3 +4,7 @@ Linux işletim sistemleri için geliştirilmişdir ve python programlama dili il
 
 # Kullanımı
 
+python webbrowsercoach.py
+
+WEP SITE ADRESI : www.example.com
+
